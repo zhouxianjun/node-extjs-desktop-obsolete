@@ -1,0 +1,76 @@
+/**SysMonitoring-start*/
+.icon-Gary-SysMonitoring-max {
+    background-image: url(../icons/SysMonitoring-20140922185203-46.jpg);
+}
+.icon-Gary-SysMonitoring-min {
+    background-image:url( ../icons/SysMonitoring-20140922185203-16.jpg) !important;
+}
+.icon-Gary-SysMonitoring-max-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/SysMonitoring-20140922185203-46.jpg', sizingMethod='scale');
+}
+.icon-Gary-SysMonitoring-min-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/SysMonitoring-20140922185203-16.jpg', sizingMethod='scale');
+}
+/**SysMonitoring-end*//**PermissionsMgr-start*/
+.icon-Gary-PermissionsMgr-max {
+    background-image: url(../icons/PermissionsMgr-20140922185259-46.jpg);
+}
+.icon-Gary-PermissionsMgr-min {
+    background-image:url( ../icons/PermissionsMgr-20140922185259-16.jpg) !important;
+}
+.icon-Gary-PermissionsMgr-max-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/PermissionsMgr-20140922185259-46.jpg', sizingMethod='scale');
+}
+.icon-Gary-PermissionsMgr-min-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/PermissionsMgr-20140922185259-16.jpg', sizingMethod='scale');
+}
+/**PermissionsMgr-end*//**Test-start*/
+.icon-Gary-Test-max {
+    background-image: url(../icons/Test-20141013143757-46.jpg);
+}
+.icon-Gary-Test-min {
+    background-image:url( ../icons/Test-20141013143757-16.jpg) !important;
+}
+.icon-Gary-Test-max-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013143757-46.jpg', sizingMethod='scale');
+}
+.icon-Gary-Test-min-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013143757-16.jpg', sizingMethod='scale');
+}
+/**Test-end*//**Test-start*/
+.icon-Gary-Test-max {
+    background-image: url(../icons/Test-20141013144219-46.jpg);
+}
+.icon-Gary-Test-min {
+    background-image:url( ../icons/Test-20141013144219-16.jpg) !important;
+}
+.icon-Gary-Test-max-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013144219-46.jpg', sizingMethod='scale');
+}
+.icon-Gary-Test-min-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013144219-16.jpg', sizingMethod='scale');
+}
+/**Test-end*//**Test-start*/
+.icon-Gary-Test-max {
+    background-image: url(../icons/Test-20141013145155-46.jpg);
+}
+.icon-Gary-Test-min {
+    background-image:url( ../icons/Test-20141013145155-16.jpg) !important;
+}
+.icon-Gary-Test-max-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013145155-46.jpg', sizingMethod='scale');
+}
+.icon-Gary-Test-min-ie6 {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='icons/Test-20141013145155-16.jpg', sizingMethod='scale');
+}
+/**Test-end*/

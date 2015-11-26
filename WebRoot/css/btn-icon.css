@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+/***************************************按钮图标************************************************************/
+.x-form-itemselector-add {
+    background-image: url(../icons/btn/right2.gif);
+}
+.x-form-itemselector-remove {
+    background-image: url(../icons/btn/left2.gif);
+}
+.icon-btn-reset{
+	background-image: url(../icons/btn/reset.png);
+}
+.icon-btn-login{
+	background-image: url(../icons/btn/login.png);
+}
+.icon-btn-add{
+	background-image: url(../icons/btn/add.png);
+}
+.icon-btn-accept{
+	background-image: url(../icons/btn/accept.png);
+}
+.icon-btn-delete{
+	background-image: url(../icons/btn/delete.gif);
+}
+.icon-btn-cross{
+	background-image: url(../icons/btn/cross.gif);
+}
+.icon-btn-view{
+	background-image: url(../icons/btn/view.png);
+}
+.icon-btn-modify{
+	background-image: url(../icons/btn/modify.png);
+}
+.icon-btn-query{
+	background-image: url(../icons/btn/query.png);
+}
+.icon-btn-refresh{
+	background-image: url(../icons/btn/refresh.png);
+}
+.icon-btn-download{
+	background-image: url(../icons/btn/download.png);
+}
+.icon-btn-alert{
+	background-image: url(../icons/btn/alert.png);
+}
+.icon-btn-setting{
+	background-image: url(../icons/btn/setting.png);
+}
+.icon-btn-upload{
+	background: url('../icons/btn/image_add.png') no-repeat 0 0 !important;
+}

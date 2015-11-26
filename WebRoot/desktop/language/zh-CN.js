@@ -1,0 +1,113 @@
+Gary.language.zh_CN = {
+	vtype: {
+		date: '结束时间小于开始时间!',
+		joinRequired: '该输入项为必输项!'
+	},
+	error: {
+		error: '错误!',
+		errorCode: '错误代码:',
+		connectionServer: '连接服务器错误...',
+		relogin: '请重新登录!',
+		dataParse: '数据错误,不能解析....',
+		data: '数据异常...',
+		socketioError: '推送服务器连接失败...',
+		socketioSuccess: '推送服务器连接成功!'
+	},
+	state: {
+		ST000: '未生效',
+		ST001: '未启用',
+		ST002: '活动',
+		ST003: '禁用',
+		ST004: '已失效',
+		ST017: '已过期',
+		enable: '启用',
+		disabled: '禁用'
+	},
+	stateName: '状态',
+	$: '元',
+	changeBackground: '更换背景',
+	systemBackground: '系统背景',
+	myBackground: '我的背景',
+	button: {
+		ok: '确定',
+		cancel: '取消',
+		save: '保存',
+		add: '新增',
+		del: '删除',
+		modify: '修改'
+	},
+	preview: '预览',
+	fitToScreen: '适合屏幕',
+	roleRightsMgr: '角色权限管理',
+	modular: '模块',
+	clear: '清空',
+	fun: '功能',
+	roleId: '角色ID',
+	roleName: '角色名',
+	descr: '描述',
+	modularIdentifer: '模块标识',
+	prompt: '提示',
+	modularName: '模块名称',
+	local: '本地化',
+	msg: {
+		modularNotLocal: '您添加的模块服务器不存在,是否要自动生成?',
+		functionNotLocal: '您添加的功能服务器不存在,是否要自动生成?',
+		deleteFunction: '你确定删除 {0} 功能?',
+		deleteModular: '你确定删除 {0} 模块?',
+		deleteRole: '你确定删除 {0} 角色吗?',
+		logout: '你确定要退出吗?'
+	},
+	functionIdentifer: '功能标识',
+	functionName: '功能名称',
+	warning: '警告!',
+	role: '角色',
+	settingRoleRights: '设置角色权限',
+	select: '请选择',
+	is: '是否',
+	currentlyOwnsRights: '当前拥有的权限',
+	expandAll: '展开所有',
+	closeAll: '关闭所有',
+	multifunctionPanel: '多功能面板',
+	paging: {
+		beforePageText: '第',
+		afterPageText: '页/共{0}页',
+	    displayMsg: '第 {0} - {1} 条 共 {2} 条',
+	    emptyMsg: "没有记录"
+	},
+	navigationPanel: '导航面板',
+	setRights: '设置权限',
+	autoArrange: '自动排列',
+	logout: '退出',
+	tileWindows: '阶式(窗口)',
+	cascadeWindows: '层叠(窗口)',
+	restore: '还原',
+	minimize: '最小化',
+	maximize: '最大化',
+	close: '关闭',
+	addModular: '新增模块',
+	updateModular: '修改模块',
+	addFunction: '新增功能',
+	deleteFunction: '删除功能',
+	deleteRole: '删除角色',
+	addRole: '新增角色',
+	modifyRole: '修改角色',
+	isEnable: '是否启用',
+	deleteModular: '删除模块',
+	modularMgr: '模块管理',
+	generateModular: '生成模块',
+	icon: '图标',
+	iconLocal: '图标本地化',
+	monitoring: {
+		mem: {
+			name: '内存资源',
+			total: '内存总量',
+			used: '已使用内存',
+			free: '可用内存',
+			swap: {
+				total: '交换区总量',
+				used: '已使用交换区',
+				free: '可用交换区'
+			}
+		}
+	}
+}
